@@ -1,0 +1,14 @@
+rotor_contents:
+  alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  rotor_a:  JGDQOXUSCAMIFRVTPNEWKBLZYH
+  rotor_b:  NTZPSFBOKMWRCJDIVLAEYUXHGQ
+  rotor_c:  JVIUBHTCDYAKEQZPOSGXNRMWFL
+  rotor_d:  QYHOGNECVPUZTFDJAXWMKISRBL
+
+rotor_positions:
+  rotor_a: 0
+  rotor_b: 0
+  rotor_c: 0
+
+plugboard:
+ - ""
